@@ -20,7 +20,8 @@ export const channels: Channel[] = [
     name: "Sekolah Koding",
     url: "https://www.youtube.com/channel/UCpSPS5yLCxYRuZSrCx-eBjA",
   },
-  { name: "Kawan Koding", url: "https://www.youtube.com/c/kawankoding" },
+  { name: "Kawan Koding",
+ url: "https://www.youtube.com/c/kawankoding" },
   {
     name: "Erico Darmawan Handoyo (Flutter)",
     url: "https://www.youtube.com/c/EricoDarmawanHandoyo",
